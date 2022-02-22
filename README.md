@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vkvk2021
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Web and Software Development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Linked in: https://www.linkedin.com/in/vishal-kumar-63560120b
 
